@@ -1,0 +1,18 @@
+.navbar{
+    background-color: rgb(58, 61, 13);
+    color: rgb(250, 210, 210);
+    font-size: 40px;
+    height: 90px;
+}
+
+.para{
+    font-size: 25px;
+    height: 435px;
+}
+
+.footer{
+    background-color: rgb(64, 65, 16);
+    color: rgb(250, 210, 210);
+    font-size: 100px;
+    height: 200px;
+}
